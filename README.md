@@ -40,5 +40,5 @@ cd build
 ### Python
 
 ```bash
-python demo.py
+python python_implementation/demo.py
 ```
